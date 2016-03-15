@@ -1,0 +1,28 @@
+{
+  "name": "google-drive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devstart": "nodemon lib/index.js",
+    "start": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdrdavies/google-drive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdrdavies/google-drive/issues"
+  },
+  "homepage": "https://github.com/hdrdavies/google-drive#readme",
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "hapi": "^13.2.1",
+    "inert": "^3.2.0",
+    "nodemon": "^1.9.1",
+    "vision": "^4.0.1"
+  }
+}
