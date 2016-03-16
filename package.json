@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/hdrdavies/google-drive#readme",
   "dependencies": {
+    "env2": "^2.0.6",
     "handlebars": "^4.0.5",
     "hapi": "^13.2.1",
     "inert": "^3.2.0",
